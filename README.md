@@ -2,6 +2,11 @@
 
 RestfullAPI  node js de movies .
 
+
+## Descompress
+Descomprimir o arquivo 
+
+
 ## Installation
 
 Para instalar o projecto 
